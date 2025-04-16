@@ -21,7 +21,7 @@
 | Postmark                    | [postmarkapp.com](https://postmarkapp.com/)                   |  $110           |  $475           |  $700         | ✅ | ❌ | ❌ |
 
 ### Notes:
-- **FREE*** (SelfSend v2) when self-hosted, only operational costs would apply, such as hosting, etc.
+- **FREE*** (SelfSend v2) when self-hosted, only fix operational costs would apply, such as hardware, electricity, etc.
 - Prices with **\*** have specific conditions (e.g., volume discounts, tiered pricing).
 - **Mailjet** and **Postmark** are the most expensive for 100K emails.
 
