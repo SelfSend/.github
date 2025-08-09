@@ -16,7 +16,7 @@
 | SendPulse                   | [sendpulse.com](https://sendpulse.com)                        |  $63            |  $234           |  $460         | ✅ | ❌ | ❌ |
 | Mailgun                     | [mailgun.com](https://www.mailgun.com/)                       |  $75            |  $400           |  $700         | ✅ | ❌ | ❌ |
 | SMTP.com                    | [smtp.com](https://www.smtp.com/email-api/)                   |  $80            |  $300           |  $500         | ✅ | ❌ | ❌ |
-| MailChimp                   | [sendpulse.com](https://sendpulse.com)                        |  $80            |  $378           |  $656         | ✅ | ❌ | ❌ |
+| MailChimp                   | [mailchimp.com](https://mailchimp.com)                        |  $80            |  $378           |  $656         | ✅ | ❌ | ❌ |
 | Mailjet                     | [mailjet.com](https://www.mailjet.com/products/email-api/)    |  $105           |  $470           | Upon request / Enterprise | ✅ | 🟠 Up to 2K validations/month (If sending +100K emails/month) | ❌ |
 | Postmark                    | [postmarkapp.com](https://postmarkapp.com/)                   |  $110           |  $475           |  $700         | ✅ | ❌ | ❌ |
 
